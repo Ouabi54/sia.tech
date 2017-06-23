@@ -3,10 +3,10 @@
   translation: "À propos"
 
 - id: title_apps
-  translation: "Download" # TODO: i18n: translate this
+  translation: "Télécharger" 
 
 - id: title_faq
-  translation: "FAQ" # TODO: i18n: is this translation okay?
+  translation: "FAQ" # TODO: i18n: is this translation okay? Yes in french means: "Foire Aux Questions"
 
 - id: title_getsiacoin
   translation: "Obtenez des Siacoin"
@@ -31,10 +31,9 @@
   translation: "En découvrir plus"
 
 - id: discover_whitepaper
-  translation: "Livre blanc"
-
+  translation: "Whitepaper"
 - id: discover_blog
-  translation: "Blog" # TODO: i18n: is this translation okay?
+  translation: "Blog" # TODO: i18n: is this translation okay? Yes
 
 - id: discover_explorer
   translation: "Blockchain Explorateur"
@@ -50,13 +49,13 @@
   translation: "En savoir plus sur Sia"
 
 - id: footer_docs
-  translation: "Docs" # TODO: i18n: is this translation okay?
+  translation: "Docs" # TODO: i18n: is this translation okay Yes
 
 - id: footer_blog
-  translation: "Blog" # TODO: i18n: is this translation okay?
+  translation: "Blog" # TODO: i18n: is this translation okay? Yes
 
 - id: footer_forum
-  translation: "Forum" # TODO: i18n: is this translation okay?
+  translation: "Forum" # TODO: i18n: is this translation okay? Yes
 
 - id: footer_siatalk
   translation: "#siatalk sur irc.freenode.net"
@@ -65,13 +64,13 @@
   translation: "est soutenue par"
 
 - id: footer_questions
-  translation: "Questions sur Sia? Entrer en contact!"
+  translation: "Des questions sur Sia ? Contactez-nous!"
 
 - id: footer_contact
-  translation: "Contact" # TODO: is this translation okay?
+  translation: "Contact" # TODO: is this translation okay? Yes
 
 - id: footer_like
-  translation: "Aimez-nous"
+  translation: "Likez-nous"
 
 - id: footer_follow
   translation: "Suivez-nous"
@@ -107,23 +106,23 @@
   translation: "Haute redondance"
 
 - id: index_info3_content
-  translation: "Sia stocke vos fichiers en petits morceaux sur des douzaines de noeuds à travers le monde entier. Cela élimine tout point d'échec unique et garantit un temps de disponibilité maximal, à l'égal des autres fournisseurs de stockage cloud."
+  translation: "Sia stocke vos fichiers en petits morceaux sur des douzaines de noeuds à travers le monde entier. Cela élimine tout point d'échec unique et garantit un temps de disponibilité maximal, contrairement aux autres fournisseurs de stockage cloud."
 
 - id: index_info4_title
   translation: "Open Source"
 
 - id: index_info4_content
-  translation: "Sia est entièrement open source. Beaucoup de personnes contribuent au logiciel Sia, et une communauté active construit des applications innovantes avec l'API Sia."
+  translation: "Sia est entièrement open source. Beaucoup de personnes contribuent au logiciel Sia, et une communauté active construit des applications innovantes en utilisant l'API Sia."
 
 - id: index_info5_title
   translation: "Construit sur une blockchain"
 
 - id: index_info5_content
-  translation: "En utilisant sa propre blockchain, Sia crée un marché de stockage décentralisé dans lequel les hôtes sont en concurrence – conduisant aux prix les plus bas possible. Les locataires payent en utilisant Siacoin, qui peut aussi être miné ou échangé."
+  translation: "En utilisant sa propre blockchain, Sia crée un marché de stockage décentralisé dans lequel les hôtes sont en concurrence – conduisant aux prix les plus bas possible. Les locataires payent en utilisant des Siacoin, qui peuvent aussi être minés ou échangés."
 
 ### calculation section ###
 - id: index_calculationheader
-  translation: "Calculer vos économies"
+  translation: "Calculez vos économies"
 
 - id: index_calculationamount
   translation: "Combien de To?"
@@ -148,7 +147,7 @@
 
 ### transform your cloud section ###
 - id: index_transformcloudheader
-  translation: "Êtes-vous prêt à transformer votre Cloud?"
+  translation: "Êtes-vous prêt à transformer votre Cloud ?"
 
 - id: index_transformcloudgetstarted
   translation: "Pour Commencer"
@@ -176,26 +175,26 @@
 
 ### paragraphs ###
 - id: about_p1
-  translation: " L'idée de Sia a été conçu à l'origine à HackMIT 2013. Si nous pouvions libérer l'espace de stockage pour les données inutilisées partout dans monde et l’unir dans un marché libre pour monde entier?"
+  translation: "À l'origine, l'idée de Sia a été conçu au HackMIT 2013. Si nous pouvions libérer l'espace de stockage des données inutilisées partout dans monde et le mettre à disposition dans un marché libre dans le monde entier ?"
 
 - id: about_p2
-  translation: "Sia tire une partie de sa capacité de la technologie blockchain pour permettre aux réseaux distribués de parvenir à un consensus de manière sécurisée et sans avoir moins de confiance. Cryptographiquement sécurisés, des contrats intelligents assurent le chiffrement et le transfert des données sans possibilité pour un tiers d'interférer en aucune façon."
+  translation: "Sia tire une partie de sa capacité de la technologie blockchain pour permettre aux réseaux distribués de parvenir à un consensus de manière sécurisée et sans tiers de confiance. Cryptographiquement sécurisés, des contrats intelligents assurent le chiffrement et le transfert des données sans aucune possibilité pour un tiers d'interférer."
 
 - id: about_p3
-  translation: "Sia est une nouvelle approche pour les plates-formes de stockage en nuage. Au lieu que tous les centres de données soient détenus et exploités par une seule entreprise, Sia ouvre les écluses et permet à quiconque de faire de l'argent en louant leur disque dur. L'intégrité des données est protégée en utilisant la redondance et la cryptographie."
+  translation: "Sia est une nouvelle approche pour les plates-formes de stockage cloud. Au lieu que tous les centres de données soient détenus et exploités par une seule entreprise, Sia ouvre les écluses et permet à quiconque de gagner de l'argent en louant son disque dur. L'intégrité des données est protégée en utilisant la redondance et la cryptographie."
 
 - id: about_p4
-  translation: "La promesse de Sia est un réseau décentralisé de centres de données qui, ensemble, constituent la plus rapide, moins chère et la plus sécuritaire plate-forme de stockage en nuage dans le monde. Aujourd'hui, être un acteur majeur de stockage en nuage exige d'avoir des centres de données, se construire de la confiance dans le marché, atteindre des clients et en concurrencer avec des géants comme Amazon, Google et Microsoft."
+  translation: "La promesse de Sia est un réseau décentralisé de centres de données qui, ensemble, constituent la plate-forme de stockage cloud la plus rapide, la moins chère et la plus sécuritaire du monde. Aujourd'hui, être un acteur majeur du stockage cloud exige d'avoir des centres de données, de construire de la confiance dans le marché, d'atteindre des clients et de concurrencer des géants comme Amazon, Google et Microsoft."
 
 - id: about_p5
-  translation: "Pénétrer ce marché est un multi-milliards effort de dollar. L'objectif à long terme de Sia est d'être la couche de stockage d'épine dorsale de l'Internet."
+  translation: "Pénétrer ce marché est un effort de plusieurs milliards de dollar. L'objectif à long terme de Sia est d'être l'épine dorsale du stockage sur Internet."
 
 - id: about_p6
-  translation: "Nous croyons que les données devraient être libres. Notre objectif est de libérer les fragements inutilisés du monde et de construire le plus grand super-server de stockage sur la planète."
+  translation: "Nous croyons que les données devraient être libres. Notre objectif est de libérer les fragements inutilisés du monde et de construire le plus grand super-serveur de stockage sur la planète."
 
 ### contact ###
 - id: about_contact
-  translation: "Contact" # TODO: i18n: is this translation okay?
+  translation: "Contact" # TODO: i18n: is this translation okay? yes
 
 
 # URL: /about/milestones.html
@@ -211,22 +210,22 @@
   translation: "Octobre 2013: Idée"
 
 - id: milestones_angel
-  translation: "Juin 2014: Investissement Ange"
+  translation: "Juin 2014: Investissement des business Angels"
 
 - id: milestones_whitepaper
-  translation: "Novembre 2014: Livre blanc"
+  translation: "Novembre 2014: Whitepaper"
 
 - id: milestones_launch
-  translation: "June 2015: Sia Network Launches"
+  translation: "Juin 2015: Lancement du reseau Sia"
 
 - id: milestones_v1
   translation: "Juin 2016: Sia Version 1"
 
 - id: milestones_exchanges
-  translation: "Julliet 2016: Sia sur Poloniex, YUNBI, Bitsquare, et ShapeShift"
+  translation: "Juillet 2016: Sia sur Poloniex, YUNBI, Bitsquare, et ShapeShift"
 
 - id: milestones_funding2016
-  translation: "August 2016: Nebulous Raises $750k for Sia" # TODO: i18n: translate this
+  translation: "Août 2016: Nebulous léve 750 000$ pour Sia"
 
 
 # URL: /apps/index.html
@@ -238,7 +237,7 @@
   translation: "Sia-UI (LTS)"
 
 - id: apps_uisubheader
-  translation: "For users" # TODO: translate
+  translation: "Pour les utilisateurs" 
 
 - id: apps_daemonheader
   translation: "Sia Daemon"
@@ -247,10 +246,10 @@
   translation: "Sia Daemon (LTS)"
 
 - id: apps_daemonsubheader
-  translation: "For developers" # TODO: translate
+  translation: "Pour les développeurs"
 
 - id: apps_minerheader
-  translation: "Miners" # TODO: translate
+  translation: "Mineurs"
 
 ### miner ###
 - id: apps_download
@@ -260,39 +259,37 @@
   translation: "Mineur"
 
 - id: apps_miner1
-  translation: "The official GPU miner" # TODO: translate
+  translation: "Le mineur GPU officiel"
 
 - id: apps_altminer
   translation: "Mineur Alterné"
 
 - id: apps_altminer1
-  translation: "Un mineur de GPU pour Sia en Go"
+  translation: "Un mineur GPU pour Sia en Go"
 
 - id: apps_sourcecode
-  translation: "Source code on GitHub" # TODO: translate
-
+  translation: "Code source sur GitHub"
 ### built on sia ###
 - id: apps_builtheader
-  translation: "Construit sur Sia"
+  translation: "Construit avec Sia"
 
 - id: apps_explorerh
   translation: "Block explorateur"
 
 - id: apps_explorerp
-  translation: "Sia Blockchain Explorateur"
+  translation: "Sia explorateur de block"
 
 - id: apps_minebox
-  translation: "Next generation NAS powered by Sia" # TODO: translate
+  translation: "La prochaine génération de NAS propulsé par Sia"
 
 - id: apps_siacluster
-  translation: "Data farm monitoring and management tool for Sia" # TODO: translate
+  translation: "Outil de gestion et de suivi des données pour Sia" 
 
 - id: apps_gnomeshell
-  translation: "Sia Cloud Storage Extension for GNOME Shell" # TODO: translate
+  translation: "L'extension de stockage cloud de Sia pour le Shell GNOME"
 
 - id: apps_siapulse
-  translation: "Analytics tool for Sia" # TODO: translate
-
+  translation: "Outil d'analyse pour Sia"
 # URL: /faq.html
 ### header ###
 
@@ -300,7 +297,7 @@
   translation: "Questions Fréquemment Posées"
 
 - id: faq_subheader
-  translation: "Information que vous voulez savoir"
+  translation: "Les choses que vous voulez savoir"
 
 ### sia ###
 
@@ -308,32 +305,32 @@
   translation: "Sia"
 
 - id: faq_sia1q
-  translation: "Comment les fichiers sont stockés en toute sécurité sur le réseau Sia?"
+  translation: "Comment les fichiers sont stockés en toute sécurité sur le réseau Sia ?"
 - id: faq_sia1a
-  translation: "Sia utilise une combinaison de codage d'effacement, de chiffrement et de blockchains qui s'assurent que les fichiers sont sécurisés sur le réseau. Aucun hôte peut afficher les fichiers qu'il héberge, et les fichiers peuvent résister à des pannes de réseau sans être alterés."
+  translation: "Sia utilise une combinaison de code d'effacement, de chiffrement et une blockchain qui s'assure que les fichiers sont sécurisés sur le réseau. Aucun hôte ne peut afficher les fichiers qu'il héberge, et les fichiers peuvent résister à des pannes de réseau sans être alterés."
 
 - id: faq_sia2q
-  translation: "Qu'est-ce qui se passe si un hôte de fichiers est hors ligne?"
+  translation: "Qu'est-ce qui se passe si un hôte de fichiers est hors ligne ?"
 - id: faq_sia2a
-  translation: "Sia utilise le codage d'effacement de Reed Solomon. Cela permet qu'un grand pourcentage d'hôtes puissent de déconnecter sans provoquer la corruption de fichiers."
+  translation: "Sia utilise le code d'effacement de Reed Solomon. Cela permet qu'un grand pourcentage d'hôtes puissent se déconnecter sans provoquer la corruption de fichiers."
 
 - id: faq_sia3q
-  translation: "Quelle est la stabilité Sia?"
+  translation: "Quelle est la stabilité Sia ?"
 - id: faq_sia3a
-  translation: "Le protocole général de Sia a été examiné à fond, et il est peu susceptible de changer drastiquement dans l'avenir. Aucunes vulnérabilités majeures ont été découvertes dans ce protocole Sia depuis le lancement initial sur le logiciel client Juin 7th. Le logiciel client est fermement en version bêta. La plupart des bugs graves ont été éliminés, mais il y a encore des éléments rugueux ou frustrant de l'expérience des utilisateurs. Il pourrait aussi y avoir des bugs persistants qui mettraient des pièces de monnaie ou des fichiers à risque. Utiliser avec précaution. Il n'y a aucune garantie sur le logiciel. Redémarrer le logiciel est généralement une bonne façon de résoudre des problèmes inattendus."
+  translation: "Le protocole général de Sia a été examiné en profondeur, et il est peu susceptible de changer drastiquement dans l'avenir. Aucunes vulnérabilités majeures n'ont été découvertes dans le protocole de Sia depuis le lancement initial sur le logiciel client le 7 Juin. Le logiciel client est en version bêta. La plupart des bugs critiques ont été éliminés, mais il y a encore des éléments rugueux ou frustrant pour l'expérience utilisateur. Il pourrait aussi y avoir des bugs persistants qui mettraient des pièces de monnaie ou des fichiers à risque. Utiliser avec précaution. Il n'y a aucune garantie sur le logiciel. Redémarrer le logiciel est généralement une bonne façon de résoudre des problèmes inattendus." 
 
 - id: faq_sia4q
-  translation: "Qu'est-ce qu'un contrat de dossier?"
+  translation: "Qu'est-ce qu'un contrat de dossier ?"
 - id: faq_sia4a
-  translation: "Un contrat de fichier permet à un hôte et un locataire à faire un accord sur un fichier; l'hôte accepte de stocker un fichier pour une certaine durée de temps, puis est payé un peu d'argent pour ce service. Le locataire paie toutes les pièces en avance, et blockchain agit comme dépôt fiduciaire. Si l'hôte conserve le fichier et soumet une preuve de stockage à la fin, l'hôte va obtenir le paiement. Sinon, (selon les termes du contrat), le paiement est retourné au téléchargeur. Tous les paiements doivent être faits avec la monnaie locale de Sia, le siacoin."
+  translation: "Un contrat de fichier permet à un hôte et un locataire à faire un accord sur un fichier; l'hôte accepte de stocker un fichier pour une certaine durée de temps et est payé pour ce service. Le locataire paie la totalité en avance, et la blockchain agit comme un dépôt fiduciaire. Si l'hôte conserve le fichier et soumet une preuve de stockage à la fin, l'hôte va obtenir le paiement. Sinon, (selon les termes du contrat), le paiement est retourné au locataire. Tous les paiements doivent être faits avec la monnaie locale de Sia, le siacoin."
 
 - id: faq_sia5q
   translation: "Puis-je contribuer, ou construire sur Sia?"
 - id: faq_sia5a
-  translation: "Oui! Nous aimerions cela. Tout le code de Sia est à 100% source ouvert et peut être trouvé sur notre github. Un gros merci à bitspill, fornax, autumnalscooter et pmknutsen pour leurs aide, ainsi que d'autres développeurs qui ont soumis des questions ou des demandes de traction."
+  translation: "Oui! Nous aimerions cela. Tout le code de Sia est 100% open-source et peut être trouvé sur notre github. Un gros merci à bitspill, fornax, autumnalscooter et pmknutsen pour leurs aide, ainsi que d'autres développeurs qui ont soumis des questions ou des demandes de traction."
 
 - id: faq_sia6q
-  translation: "Quelle est la différence entre Sia et Nebulous Labs?"
+  translation: "Quelle est la différence entre Sia et Nebulous Labs ?"
 - id: faq_sia6a
   translation: "Nebulous Labs est l'entreprise, Sia est le produit."
 
@@ -343,34 +340,34 @@
   translation: "Siacoins"
 
 - id: faq_siacoins1q
-  translation: "Quelle est la différence entre Siacoin et Bitcoin?"
+  translation: "Quelle est la différence entre Siacoin et Bitcoin ?"
 - id: faq_siacoins1a
-  translation: "Sia utilise un crypto-monnaie, Siacoin, pour permettre les paiements décentralisés. Siacoin peut être considéré comme une extension de Bitcoin qui ajoute le support pour les contrats de fichiers. Comme Bitcoin, Siacoin utilise un blockchain, et est alimenté par l'exploitation minière \"proof-of-work\". Cependant, Siacoin et Bitcoin ne sont pas en concurrence directe. Bitcoin est une monnaie à usage général, tandis que Siacoin existe uniquement pour mettre en marche le réseau Sia."
+  translation: "Sia utilise un crypto-monnaie, Siacoin, pour permettre les paiements décentralisés. Siacoin peut être considéré comme une extension de Bitcoin qui ajoute le support pour les contrats de fichiers. Comme Bitcoin, Siacoin utilise une blockchain, et est alimenté par le mining \"proof-of-work\". Cependant, Siacoin et Bitcoin ne sont pas en concurrence directe. Bitcoin est une monnaie à usage général, tandis que Siacoin existe uniquement pour mettre en marche le réseau Sia."
 
 - id: faq_siacoins2q
-  translation: "Pourquoi Sia a-t-il besoin de sa propre monnaie? Ne pourrait-il pas utiliser un processeur de paiement comme PayPal?"
+  translation: "Pourquoi Sia a-t-il besoin de sa propre monnaie ? Ne pourrait-il pas utiliser un processeur de paiement comme PayPal ?"
 - id: faq_siacoins2a
-  translation: "Cela rendrait beaucoup plus difficile pour les clients de payer directement les hôtes. En outre, Sia crée un volume important de très petites transactions (à savoir les micropaiements, pensez à moins de 1 ¢), les processeurs de paiement traditionnels ne sont pas conçus pour gérer cela. Enfin, en utilisant un blockchain, cela permet également de faire respecter les contrats de manière cryptographiquement scuritaire."
+  translation: "Cela rendrait beaucoup plus difficile pour les clients de payer directement les hôtes. En outre, Sia crée un volume important de très petites transactions (à savoir les micropaiements, pensez à moins de 1 ¢), les processus de paiement traditionnels ne sont pas conçus pour gérer cela. Enfin, en utilisant une blockchain, cela permet également de faire respecter les contrats de manière cryptographiquement sécuritaire."
 
 - id: faq_siacoins3q
-  translation: "Comment puis-je obtenir des siacoins?"
+  translation: "Comment puis-je obtenir des siacoins ?"
 - id: faq_siacoins3a
-  translation: "Vous aurez besoin d'acquérir des bitcoins pour obtenir des siacoins. L'endroit le plus commun pour obtenir des pièces de monnaie sia est Poloniex. Il y a aussi des négociation possibles sur talk Bitcoin et un canal de négociation dans notre Slack."
+  translation: "Vous aurez besoin d'acquérir des bitcoins pour obtenir des siacoins. L'endroit le plus commun pour obtenir des siacoin est Poloniex. Il y a aussi des négociation possibles sur Bitcoin talk et sur un canal de négociation dans notre Slack."
 
 - id: faq_siacoins4q
-  translation: "Combien de siacoins existera-t-il?"
+  translation: "Combien de siacoins existera-t-il ?"
 - id: faq_siacoins4a
-  translation: "Le nombre de siacoins créés par chaque bloc est (300.000 - en hauteur). Le bloc genesis a une hauteur de 0. Après la hauteur de 270.000, tous les blocs auront une récompense de 30.000 siacoins. Le nombre actuel de siacoins peut être trouvé à explore.sia.tech"
+  translation: "Le nombre de siacoins créés par chaque bloc est (300.000 - en hauteur). Le bloc genesis a une hauteur de 0. Après la hauteur de 270.000, tous les blocs auront une récompense de 30.000 siacoins. Le nombre actuel de siacoins peut être trouvé grace à explore.sia.tech"
 
 - id: faq_siacoins5q
-  translation: "Combien cela coûte de stocker des données?"
+  translation: "Combien cela coûte de stocker des données ?"
 - id: faq_siacoins5a
-  translation: "Le prix est déterminé par un marché libre par les utilisateurs et les fournisseurs. En Janvier 2016, le stockage est d'environ 2,25 $/TB/mois avec redondance 6x."
+  translation: "Le prix est déterminé sur un marché libre par les utilisateurs et les fournisseurs. En Janvier 2016, le stockage est d'environ 2,25 $/TB/mois avec une redondance de 6x."
 
 - id: faq_siacoins6q
-  translation: "Quelle est la différence entre Siacoin et Siafund?"
+  translation: "Quelle est la différence entre Siacoin et Siafund ?"
 - id: faq_siacoins6a
-  translation: "Les deux ont différentes propriétés. Le Siafund vous donne accès à une partie du revenu des hôtes. Si vous achetez un siafund pour 200 $, cela signifie que, sur la durée de vie du Siafund vous vous attendez à gagner 200 $ de retour (plus les intérêts). Si Sia atteint son objectif de domination de stockage en nuage, chaque Siafund gagnera probablement quelque part entre 10.000 $ et 250.000 $ pour leurs propriétaires chacun. La décote représente le risque que Sia ne se développera jamais aussi large que cela. Le Siacoin est utilisé pour acheter le stockage sur le réseau Sia, et sa valeur de base est dérivée de celui-ci."
+  translation: "Les deux ont différentes propriétés. Le Siafund vous donne accès à une partie du revenu des hôtes. Si vous achetez un siafund pour 200 $, cela signifie que, sur la durée de vie du Siafund vous vous attendez à gagner 200 $ de retour (plus les intérêts). Si Sia atteint son objectif de domination de stockage cloud, chaque Siafund gagnera probablement quelque part entre 10.000 $ et 250.000 $ pour chaque propriétaire. La décote représente le risque que Sia ne se développera jamais autant que cela. Le Siacoin est utilisé pour acheter du stockage sur le réseau Sia, et sa valeur de base est dérivée de celui-ci."
 
 ### wallet ###
 
@@ -378,44 +375,44 @@
   translation: "Utilisation Porte-monnaie"
 
 - id: faq_wallet1q
-  translation: "Comment fonctionne le chiffrement de portefeuille?"
+  translation: "Comment fonctionne le chiffrement de portefeuille ?"
 - id: faq_wallet1a
-  translation: "La première fois que vous exécutez Sia, vous devez initialiser un portefeuille. Vous pouvez cliquer sur «Créer Portefeuille» dans l'application. Vous recevrez un mot sécurisé de 29 passphrase qui sera nécessaire pour déverrouiller le porte-monnaie à l'avenir. Si vous perdez votre fichier de portefeuille, vous pouvez utiliser le mot 29 phrase pour récupérer les siacoins qui étaient dans le portefeuille."
+  translation: "La première fois que vous exécutez Sia, vous devez initialiser un portefeuille. Vous pouvez cliquer sur «Créer un Portefeuille» dans l'application. Vous recevrez une passphrase sécurisée de 29 mots qui sera nécessaire pour déverrouiller le porte-monnaie. Si vous perdez votre fichier de portefeuille, vous pouvez utiliser les 29 mots pour récupérer les siacoins qui étaient dans le portefeuille."
 
 - id: faq_wallet2q
-  translation: "Qu'est-ce que le verrouillage de portefeuille?"
+  translation: "Qu'est-ce que le verrouillage de portefeuille ?"
 - id: faq_wallet2a
-  translation: "Le verrouillage est une partie du cryptage. Lorsque vous ouvrez un portefeuille, il sera verrouillé. Les coins ne peuvent pas être dépensés alors que le portefeuille est verrouillé. Le mineur, gestionnaire de fichiers, et l'hôte seront également désactivés tandis que le portefeuille est verrouillé."
+  translation: "Le verrouillage est une partie du cryptage. Lorsque vous ouvrez un portefeuille, il sera verrouillé. Les coins ne peuvent pas être dépensés alors que le portefeuille est verrouillé. Le mineur, gestionnaire de fichiers, et l'hôte seront également désactivés pendant que le portefeuille est verrouillé."
 
 - id: faq_wallet3q
-  translation: "Puis-je choisir mon propre mot de passe?"
+  translation: "Puis-je choisir mon propre mot de passe ?"
 - id: faq_wallet3a
-  translation: "À l'heure actuelle vous ne pouvez pas choisir votre propre mot de passe. Les gens surestiment généralement leurs capacités à créer des mots de passe forts, et beaucoup de gens ont perdu des pièces de monnaie en raison de vol à la suite d'avoir un mot de passe faible. Pour cette raison, il n'y a pas de support pour les mots de passe générés par les utilisateurs dans le logiciel Sia par défaut."
+  translation: "À l'heure actuelle vous ne pouvez pas choisir votre propre mot de passe. Les gens surestiment généralement leurs capacités à créer un mot de passe fort et beaucoup de gens ont perdu des coins en raison de vol dû à un mot de passe faible. Pour cette raison, il n'y a pas de support pour les mots de passe générés par les utilisateurs dans le logiciel Sia par défaut."
 
 - id: faq_wallet4q
-  translation: "Est-ce-qu'un pirate peut voler mes coins?"
+  translation: "Est-ce-qu'un pirate peut voler mes coins ?"
 - id: faq_wallet4a
-  translation: "Les clés privées existent uniquement dans la mémoire lorsque que le portefeuille est déverrouillé. Toutes les données privées sont cryptées en utilisant le mot de passe de portefeuille avant d'être enregistrés sur le disque."
+  translation: "Les clés privées existent uniquement dans la mémoire lorsque que le portefeuille est déverrouillé. Toutes les données privées sont cryptées en utilisant le mot de passe du portefeuille avant d'être enregistrés sur le disque."
 
 - id: faq_wallet5q
-  translation: "Pourquoi y-a-il une liste d'adresses?"
+  translation: "Pourquoi y-a-il une liste d'adresses ?"
 - id: faq_wallet5a
-  translation: "La plupart des portefeuilles affichent des adresses différentes à l'utilisateur une à la fois. Nous vous les montrons simplement tous en même temps. Il est recommandé d'utiliser une nouvelle adresse pour chaque transaction."
+  translation: "La plupart des portefeuilles affichent plusieurs adresses différentes à l'utilisateur. Nous vous les montrons simplement toutes en même temps. Il est recommandé d'utiliser une nouvelle adresse pour chaque transaction."
 
 - id: faq_wallet6q
-  translation: "Pourquoi mon solde ne s'est pas mis à jour après une transaction?"
+  translation: "Pourquoi mon solde ne s'est pas mis à jour après une transaction ?"
 - id: faq_wallet6a
-  translation: "Votre transaction sera inclus dans le prochain bloc. Le temps qu'il faut pour exploiter chaque bloc est estimé à 10 minutes. En outre, si votre portefeuille est nouveau, il peut être en retard dans le téléchargement des en-têtes de bloc."
+  translation: "Votre transaction sera inclus dans le prochain bloc. Le temps qu'il faut pour miner chaque bloc est estimé à 10 minutes. En outre, si votre portefeuille est nouveau, il peut être en retard dans le téléchargement des en-têtes de blocs."
 
 - id: faq_wallet7q
-  translation: "Est-ce-que les utilisateurs de portefeuille sont anonymes?"
+  translation: "Est-ce-que les utilisateurs de portefeuille sont anonymes ?"
 - id: faq_wallet7a
   translation: "Oui, pour la plupart. Techniquement, il ne requière aucune permission  - Sia ne nécessite pas d'informations personnelles pour l'utilisation de l'un de ses services."
 
 - id: faq_wallet8q
-  translation: "Combien de fois devrais-je sauvegarder mon portefeuille?"
+  translation: "Combien de fois devrais-je sauvegarder mon portefeuille ?"
 - id: faq_wallet8a
-  translation: "Aucun besoin, tant que vous avez stocké vos codes chiffrées / mot de passe dans un endroit sûr. Ne le perdez pas!"
+  translation: "Aucun besoin, tant que vous avez stocké vos codes chiffrées / mot de passe dans un endroit sûr. Ne le perdez pas !"
 
 ### host ###
 
@@ -423,7 +420,7 @@
   translation: "Utilisation hôte"
 
 - id: faq_host1q
-  translation: "Comment puis-je devenir un hôte?"
+  translation: "Comment puis-je devenir un hôte ?"
 - id: faq_host1a
   translation: "La première étape est de transmettre vos ports. Une fois que vos ports sont transmis, vous pouvez annoncer l'hôte et commencer à recueillir des contrats de fichiers. L'annonce peut prendre quelques heures pour propager le réseau."
 
